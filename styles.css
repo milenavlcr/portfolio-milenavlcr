@@ -760,7 +760,7 @@ background: #191919;
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 400px) {
 	.container-footer{
 	width: 100%
 	flex-direction: column;
