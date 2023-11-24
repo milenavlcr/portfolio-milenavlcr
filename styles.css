@@ -759,12 +759,6 @@ background: #191919;
     color: var(--color-white);
 }
 
-
-@media screen and (max-width: 100px) {
-	.container-footer{
-	width: 100%
-	flex-direction: column;
-        }
         
 
 @keyframes written_text {
