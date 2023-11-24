@@ -759,9 +759,9 @@ background: #191919;
     color: var(--color-white);
 }
 
-@media screen and (max-widht: 768) {
-	.produto-container{
-	widht: 100%
+@media screen and (max-widht: 768px) {
+	.container-footer{
+	width: 100%
 	flex-direction: column;
         }
         
