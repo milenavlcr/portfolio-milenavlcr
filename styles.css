@@ -1075,7 +1075,7 @@ body {
 
 @keyframes written_text_name {
   100% {
-    color: var(--color-blue);
+    color: var(--color-purple);
   }
 }
 
